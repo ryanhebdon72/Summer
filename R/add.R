@@ -10,5 +10,7 @@
 #'
 #' add(2,5)
 #'
+#' add(3,8)
+#'
 
 add <- function(a,b) a+b
