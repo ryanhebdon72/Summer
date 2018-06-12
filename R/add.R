@@ -8,7 +8,7 @@
 #' @export add
 #' @examples
 #'
-#' add(2,4)
+#' add(2,5)
 #'
 
 add <- function(a,b) a+b
